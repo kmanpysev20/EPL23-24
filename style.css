@@ -1,5 +1,10 @@
+body {
+    background: azure;
+}
+
 .wrap {
     padding : 10px 20px;
+
 }
 
 .total-wrap {
